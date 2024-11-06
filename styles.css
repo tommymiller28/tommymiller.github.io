@@ -1,0 +1,91 @@
+/* Header style */
+header {
+    color: white;
+    background-color: #4CAF50; /* Choose your preferred color */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Paragraph style */
+p {
+    color: #333;
+    background-color: #f0f0f0; /* Choose a different color */
+    padding: 10px;
+}
+
+/* About page heading */
+.about-heading {
+    color: #ffffff;
+    background-color: #2E8B57; /* Customize as needed */
+    padding: 10px;
+}
+
+/* Introduction paragraph */
+.intro-paragraph {
+    color: #333;
+    background-color: #FFD700; /* Customize */
+    padding: 10px;
+}
+
+/* Hobby paragraph */
+.hobby-paragraph {
+    color: #444;
+    background-color: #ADD8E6; /* Customize */
+    padding: 10px;
+}
+
+/* Label and field styles */
+label {
+    color: #4B0082;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    background-color: #E6E6FA;
+    border: 1px solid #4B0082;
+    color: #333;
+    padding: 8px;
+}
+
+nav {
+    background-color: #333; /* Background color */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    color: white; /* Text color */
+    text-decoration: none;
+}
+
+/* Homepage background */
+body.home-page {
+    background-color: #F5F5DC; /* Light beige */
+}
+
+/* About Me page background */
+body.about-page {
+    background-color: #FAF0E6; /* Linen color */
+}
+
+/* Resume page background */
+body.resume-page {
+    background-color: #E0FFFF; /* Light cyan */
+}
+
+/* Contact Me page background */
+body.contact-page {
+    background-color: #FFFACD; /* Lemon chiffon */
+}
+
+
+
